@@ -4,7 +4,7 @@ I'm a computer science student just starting out in software engineering.
 My current mission: learn fullstack development from top to bottom — then dive deeper into what I love most.
 
 Right now I'm:
-- A BINUS University student
+- A Computer Science student @ BINUS University  
 - Taking a fullstack bootcamp.
 
 ---
