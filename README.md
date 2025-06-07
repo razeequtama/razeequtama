@@ -20,8 +20,7 @@ Right now I'm:
 ## Featured Projects *(more coming soon)*
 
 ### `Mock Operating System in a browser`
-> A simple fullstack to-do list built with React, Express, and MongoDB  
-Features include user login, task filtering, and dark mode toggle.
+> A mock functional Operating System in a browser run with HTML, CSS, and Javascript.
 
 
 ## Upcoming Projects
