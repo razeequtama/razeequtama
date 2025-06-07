@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Raziq Rabbani Utama — Fullstack Dev-in-Progress
 
-<!--
-**razeequtama/razeequtama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student just starting out in software engineering.  
+My current mission: learn fullstack development from top to bottom — then dive deeper into what I love most.
 
-Here are some ideas to get you started:
+Right now I'm:
+- A BINUS University student
+- Taking a fullstack bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Learning
+- HTML, CSS, Flexbox, Responsive Design
+- JavaScript (ES6+), DOM, Async, APIs
+- React & React Hooks
+- Node.js, Express, MongoDB
+- Git & GitHub basics
+
+
+## Featured Projects *(more coming soon)*
+
+### `Mock Operating System in a browser`
+> A simple fullstack to-do list built with React, Express, and MongoDB  
+Features include user login, task filtering, and dark mode toggle.
+
+
+## Upcoming Projects
+- Personal portfolio site (React + GitHub Pages)
+
+---
+
+## Let's Connect!
+- Looking for community — open to dev friends, feedback, and learning groups!
+- [https://www.linkedin.com/in/raziq-rabbani-utama-9b541a332/]
+- Portfolio: *Coming soon*
+
+---
+
+> “I’m not here to be perfect — I’m here to be consistent.”  
+> Thanks for stopping by!
+
