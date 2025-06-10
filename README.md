@@ -17,13 +17,12 @@ Right now I'm:
 - Git & GitHub basics
 
 
-## Featured Projects *(more coming soon)*
-
-### `Mock Operating System in a browser`
-> A mock functional Operating System in a browser run with HTML, CSS, and Javascript.
+## Featured Projects *(coming soon)*
+-
 
 
 ## Upcoming Projects
+- Mock Operating System in a browser
 - Personal portfolio site (React + GitHub Pages)
 
 ---
