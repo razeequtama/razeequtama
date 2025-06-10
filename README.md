@@ -18,7 +18,7 @@ Right now I'm:
 
 
 ## Featured Projects *(coming soon)*
--
+- []
 
 
 ## Upcoming Projects
