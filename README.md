@@ -23,7 +23,6 @@ Right now I'm:
 
 ## Upcoming Projects
 - Mock Operating System in a browser
-- Personal portfolio site (React + GitHub Pages)
 
 ---
 
