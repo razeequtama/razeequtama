@@ -28,7 +28,7 @@ Right now I'm:
 
 ## Let's Connect!
 - Looking for community — open to dev friends, feedback, and learning groups!
-- [https://www.linkedin.com/in/raziq-rabbani-utama-9b541a332/]
+- [www.linkedin.com/in/raziqrabbaniutama]
 - Portfolio: *Coming soon*
 
 ---
