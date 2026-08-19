@@ -1,38 +1,139 @@
-# Hi, I'm Raziq Rabbani Utama — Fullstack Dev-in-Progress
+# Hi, I'm Raziq Rabbani Utama
 
-I'm a computer science student just starting out in software engineering.  
-My current mission: learn fullstack development from top to bottom — then dive deeper into what I love most.
+I'm a Software Engineering student at Bina Nusantara @Bekasi building my foundation in computer science, software development, and systems.
 
-Right now I'm:
-- A Computer Science student @ BINUS University  
-- Taking a fullstack bootcamp.
+My current goal is simple: **understand how software works from the ground up, build things that actually work, and gradually specialize in the areas of engineering I enjoy most.**
 
----
-
-## What I'm Learning
-- HTML, CSS, Flexbox, Responsive Design
-- JavaScript (ES6+), DOM, Async, APIs
-- React & React Hooks
-- Node.js, Express, MongoDB
-- Git & GitHub basics
-
-
-## Featured Projects *(coming soon)*
-- []
-
-
-## Upcoming Projects
-- Mock Operating System in a browser
+I'm currently focusing on fullstack development while strengthening my fundamentals in programming, data structures, systems, cloud computing, and AI.
 
 ---
 
-## Let's Connect!
-- Looking for community — open to dev friends, feedback, and learning groups!
-- [www.linkedin.com/in/raziqrabbaniutama]
-- Portfolio: *Coming soon*
+## 🧑‍💻 About Me
+
+- 🎓 Software Engineering student
+- 🌐 Learning fullstack web development
+- 💻 Practicing C, JavaScript, and TypeScript
+- ⚛️ Exploring React and modern frontend development
+- 🖥️ Learning backend development and APIs
+- 🗄️ Learning databases and data management
+- 🔧 Building projects to turn theory into practical experience
+- 📚 Currently expanding into Linux, networking, Docker, cloud, and systems
 
 ---
 
-> “I’m not here to be perfect — I’m here to be consistent.”  
-> Thanks for stopping by!
+## 🛠️ What I'm Learning
 
+### Programming & Fundamentals
+- C++
+- JavaScript, ES6+
+- TypeScript
+- Python
+- Data Structures & Algorithms
+- Software Engineering fundamentals
+
+### Frontend
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- React
+- React Hooks
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Server side development
+
+### Databases & Data
+- SQL
+- PostgreSQL
+- MongoDB
+- Database fundamentals
+- Data modeling
+
+### Systems & Infrastructure
+- Linux
+- Bash
+- Computer Networking
+- Docker
+- Cloud fundamentals
+- Distributed systems fundamentals
+
+### System Design
+- Scalability
+- Availability & Reliability
+- Load balancing
+- Caching
+- Database scaling
+- Message queues
+- API design
+- Distributed systems
+- System architecture
+
+### AI & Data
+- Artificial Intelligence fundamentals
+- Machine Learning fundamentals
+- Python for AI
+- AI application development
+
+---
+
+## 🚀 Projects
+
+I'm building projects progressively, with the goal of moving from small applications toward larger, more complete software systems.
+
+### Current Projects
+- Mock Operating System in a Browser
+
+More projects will be added as I continue learning.
+
+---
+
+## 🎯 Current Focus
+
+I'm currently building toward a broader software engineering foundation:
+
+**Programming Fundamentals → Fullstack Development → Backend & Systems → Cloud → AI**
+
+My goal isn't to specialize too early. I want to understand the engineering foundations that allow me to build reliable software, then go deeper into the areas I find most interesting, particularly **cloud infrastructure and AI**.
+
+---
+
+## 📈 What I'm Working Toward
+
+- Building production minded fullstack applications
+- Improving my understanding of data structures and algorithms
+- Learning backend architecture and system design
+- Getting comfortable with Linux and networking
+- Learning Docker and cloud infrastructure
+- Building stronger GitHub projects
+- Gaining real world software engineering experience
+- Preparing for future internships
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to meeting other developers, students, creators, and people interested in technology.
+
+I'm especially interested in:
+
+- Software engineering
+- Web development
+- Backend systems
+- Cloud engineering
+- System design
+- Artificial Intelligence
+
+**LinkedIn:** [Raziq Rabbani Utama](https://www.linkedin.com/in/raziqrabbaniutama/)
+
+**Portfolio:** Coming soon
+
+---
+
+> “I’m not here to be perfect, I’m here to be consistent.”
+
+Thanks for stopping by! 🚀
