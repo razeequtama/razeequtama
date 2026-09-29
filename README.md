@@ -86,9 +86,12 @@ I'm currently focusing on fullstack development while strengthening my fundament
 I'm building projects progressively, with the goal of moving from small applications toward larger, more complete software systems.
 
 ### Current Projects
-- Mock Operating System in a Browser
-
+- “Mercury”: Real-Time Demand, Pricing & Inventory Intelligence. A miniature decision-making platform for an e-commerce company. A program that could ask "What is likely to happen next, and what should the business do about it?"
 More projects will be added as I continue learning.
+
+### Future Projects
+- “Sentinel”: AI-Assisted Dependency & Software Supply Chain Security.
+- “Atlas”: Self-Healing Distributed Commerce Platform.
 
 ---
 
