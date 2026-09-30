@@ -11,11 +11,12 @@ I'm currently focusing on fullstack development while strengthening my fundament
 ## 📑 Table of Contents
 
 - [🧑‍💻 About Me](#-about-me)
-- [🛠️ What I'm Learning](#️-what-im-learning)
+- [🛠️ Engineering Focus](#️-engineering-focus)
   - [Programming & Fundamentals](#programming--fundamentals)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-  - [Databases & Data](#databases--data)
+  - [Fullstack Development](#fullstack-development)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [Databases & Data](#databases--data)
   - [Systems & Infrastructure](#systems--infrastructure)
   - [System Design](#system-design)
   - [AI & Data](#ai--data)
@@ -25,6 +26,7 @@ I'm currently focusing on fullstack development while strengthening my fundament
 - [🎯 Current Focus](#-current-focus)
 - [📈 What I'm Working Toward](#-what-im-working-toward)
 - [🤝 Let's Connect](#-lets-connect)
+
 
 ---
 
@@ -41,7 +43,7 @@ I'm currently focusing on fullstack development while strengthening my fundament
 
 ---
 
-## 🛠️ What I'm Learning
+## 🛠️ Engineering Focus
 
 ### Programming & Fundamentals
 - C++
