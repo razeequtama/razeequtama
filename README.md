@@ -8,6 +8,26 @@ I'm currently focusing on fullstack development while strengthening my fundament
 
 ---
 
+## 📑 Table of Contents
+
+- [🧑‍💻 About Me](#-about-me)
+- [🛠️ What I'm Learning](#️-what-im-learning)
+  - [Programming & Fundamentals](#programming--fundamentals)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Databases & Data](#databases--data)
+  - [Systems & Infrastructure](#systems--infrastructure)
+  - [System Design](#system-design)
+  - [AI & Data](#ai--data)
+- [🚀 Projects](#-projects)
+  - [Current Projects](#current-projects)
+  - [Future Projects](#future-projects)
+- [🎯 Current Focus](#-current-focus)
+- [📈 What I'm Working Toward](#-what-im-working-toward)
+- [🤝 Let's Connect](#-lets-connect)
+
+---
+
 ## 🧑‍💻 About Me
 
 - 🎓 Software Engineering student
