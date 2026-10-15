@@ -68,6 +68,7 @@ I'm currently focusing on fullstack development while strengthening my fundament
 - REST APIs
 - Authentication
 - Server side development
+- FastAPI
 
 ### Databases & Data
 - SQL
@@ -96,10 +97,9 @@ I'm currently focusing on fullstack development while strengthening my fundament
 - System architecture
 
 ### AI & Data
-- Artificial Intelligence fundamentals
-- Machine Learning fundamentals
-- Python for AI
-- AI application development
+- Artificial Intelligence
+- Machine Learning 
+- AI Application Development
 
 ---
 
@@ -109,7 +109,8 @@ I'm building projects progressively, with the goal of moving from small applicat
 
 ### Current Projects
 - “Mercury”: Real-Time Demand, Pricing & Inventory Intelligence. A miniature decision-making platform for an e-commerce company. A program that could ask "What is likely to happen next, and what should the business do about it?"
-More projects will be added as I continue learning.
+- "Aegis": Fraud Detection Platform. A program that can detect whether a transaction is suspicious based on the patterns they produce.
+- More projects will be added as I continue learning.
 
 ### Future Projects
 - “Sentinel”: AI-Assisted Dependency & Software Supply Chain Security.
